@@ -1,0 +1,2 @@
+# MultiLangSynonymFetcher
+A thing
