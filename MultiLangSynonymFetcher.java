@@ -1,4 +1,4 @@
-package com.example.task_4.library_project.Library.synonym;
+package add.your.package.here;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -148,3 +148,4 @@ public class MultiLangSynonymFetcher {
         }
     }
 }
+
